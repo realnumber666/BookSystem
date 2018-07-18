@@ -1,0 +1,85 @@
+[
+	{
+        "book_id": "book1",
+        "type": "type1",
+        "lend_time":7,
+        "author": ["author1"],
+        "release_date": "2013-09-02T00:00:00Z",
+        "rating": 8.3,
+        "state":0,
+        "reader":[]   
+        
+    },
+    {
+        "book_id": "book2",
+        "type": "type2",
+        "lend_time":6,
+        "author": ["author2"],
+        "release_date": "2013-09-02T00:00:00Z",
+        "rating": 8.3,
+        "state":0,
+        "reader":[]  
+           
+        
+    },
+    {
+        "book_id": "book3",
+        "type": "type3",
+        "lend_time":4,
+        "author": ["author3"],
+        "release_date": "2013-09-02T00:00:00Z",
+        "rating": 8.3,
+        "state":0,
+        "reader":[]  
+           
+        
+    },
+    {
+        "book_id": "book4",
+        "type": "type4",    
+        "lend_time":3,
+        "author": ["author4"],
+        "release_date": "2013-09-02T00:00:00Z",
+        "rating": 8.3,
+        "state":0,
+        "reader":[]  
+           
+        
+    },
+    {
+        "book_id": "book5",
+        "type": "type3",   
+        "lend_time":9,
+        "author": ["author5"],
+        "release_date": "2013-09-02T00:00:00Z",
+        "rating": 8.3,
+        "state":0,
+        "reader":[]  
+           
+        
+    },
+    {
+        "book_id": "book6",
+        "type": "type6",
+        "lend_time":8,
+        "author": ["author6"],
+        "release_date": "2013-09-02T00:00:00Z",
+        "rating": 8.3,
+        "state":0,
+        "reader":[]  
+           
+        
+    },
+    {
+        "book_id": "book7",
+        "type": "type7",
+        "lend_time":8,
+        "author": ["author7"],
+        "release_date": "2013-09-02T00:00:00Z",
+        "rating": 8.3,
+        "state":0,
+        "reader":[]  
+           
+        
+    }
+]

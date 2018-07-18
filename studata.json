@@ -1,0 +1,37 @@
+[
+    {
+        "stu_id":"stu1",
+        "lend_book":[],
+        "lend_number":0
+    },
+    {
+        "stu_id":"stu2",
+        "lend_book":[],
+        "lend_number":0
+    },
+    {
+        "stu_id":"stu3",
+        "lend_book":[],
+        "lend_number":0
+    },
+    {
+        "stu_id":"stu4",
+        "lend_book":[],
+        "lend_number":0
+    },
+    {
+        "stu_id":"stu5",
+        "lend_book":[],
+        "lend_number":0
+    },
+    {
+        "stu_id":"stu6",
+        "lend_book":[],
+        "lend_number":0
+    },
+    {
+        "stu_id":"stu7",
+        "lend_book":[],
+        "lend_number":0
+    }
+]
