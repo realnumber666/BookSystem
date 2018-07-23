@@ -7,7 +7,7 @@ var bodyParser = require('body-Parser');
 var logger = require('morgan');
 var AWS = require("aws-sdk");
 var redis = require("redis");
-client = redis.createClient(6379,"127.0.0.1");
+//client = redis.createClient(6379,"127.0.0.1");
 //var indexRouter = require('./routes/index');
 //var usersRouter = require('./routes/users');
 
